@@ -1,0 +1,10 @@
+.venv/
+data/
+checkpoints/
+artifacts/
+__pycache__/
+.ipynb_checkpoints/
+*.pth
+*.gif
+*.png
+*.zip
