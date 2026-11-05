@@ -7,3 +7,7 @@ __pycache__/
 *.gif
 *.png
 *.zip
+
+# Figures copied unchanged from the experiment notebooks, shown by final_notebook.ipynb
+!report_figures/*.png
+!report_figures/*.gif
